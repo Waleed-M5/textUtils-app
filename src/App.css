@@ -1,0 +1,14 @@
+.grid {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.prev h2 {
+  display: grid;
+  justify-content: center;
+}
+
+.accordion-button::after {
+  filter: invert(1);
+}
